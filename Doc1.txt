@@ -1,1 +1,23 @@
 first started with Linux
+
+whoami	Yes	5/8/2023	https://www.youtube.com/watch?v=1jUUJbzxxEI
+help	Yes	5/8/2023	 
+pwd	Yes	5/8/2023	https://www.youtube.com/watch?v=dYzFO7twSfE
+cd	Yes	5/8/2023	https://www.youtube.com/watch?v=_ExUb9IroI8
+cd ..	Yes	5/8/2023	https://www.youtube.com/watch?v=_ExUb9IroI9
+ls 	Yes	5/8/2023	https://www.youtube.com/watch?v=C1btVko0CVE
+ls -l	Yes	5/8/2023	https://www.youtube.com/watch?v=C1btVko0CVE
+ls -al	Yes	5/8/2023	https://www.youtube.com/watch?v=C1btVko0CVE
+history	Yes	5/8/2023	command history is used to get commands that were run prior. It is just like history in a browser.
+clear	Yes	5/8/2023	command clear to clear the screen. 
+mkdir 	Yes	5/8/2023	https://www.youtube.com/watch?v=qixSaXSUs-U
+vi	Yes	5/8/2023	https://www.youtube.com/watch?v=vo2FXvPkcEA
+vim - improved version	Yes	5/8/2023	https://www.youtube.com/watch?v=ggSyF1SVFr4
+touch	Yes	5/8/2023	https://www.youtube.com/watch?v=tpUyBbD4LQE
+cat	Yes	5/8/2023	https://www.youtube.com/watch?v=exj5WMUJ11g
+vi shortcuts	Yes	5/8/2023	https://www.youtube.com/watch?v=pU2k776i2Zw
+shortcuts, zz, :q!, :wq!	Yes	5/8/2023	https://www.youtube.com/watch?v=pPY5jdzr-X4
+rm	Yes	5/8/2023	https://www.youtube.com/watch?v=gcE5QvggzL4
+rm with multiple files/folder names	Yes	5/8/2023	https://www.youtube.com/watch?v=gcE5QvggzL5
+rm -r	Yes	5/8/2023	https://www.youtube.com/watch?v=gcE5QvggzL6
+rm -rf	Yes	5/8/2023	https://www.youtube.com/watch?v=gcE5QvggzL7
