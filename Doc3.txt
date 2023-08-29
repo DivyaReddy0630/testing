@@ -1,1 +1,14 @@
 Day 3 started with AWS
+Need to start
+
+regions, availability zones	https://www.youtube.com/watch?v=VCipWYhC6n4
+edge locations	https://www.youtube.com/watch?v=LThE9JsW5-c
+Outposts	https://www.youtube.com/watch?v=LThE9JsW5-c
+EC2	https://www.youtube.com/watch?v=iHX-jtKIVNA
+reserved instances, spot, dedicated	https://www.youtube.com/watch?v=_d42iIc-P5I
+EBS	https://www.youtube.com/watch?v=77qLAl-lRpo
+Key pair	Class
+Auto-scaling group	https://www.youtube.com/watch?v=jvMoWjsP7Pk
+Load balancer	https://www.youtube.com/watch?v=qpHLRc4Qt1E
+S3 (complete)	https://www.youtube.com/watch?v=e6w9LwZJFIA
+IAM	https://www.youtube.com/watch?v=iF9fs8Rw4Uo&t=22s
